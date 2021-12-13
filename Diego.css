@@ -1,0 +1,34 @@
+body  
+{
+background: #cccccc; 
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+#.titulo .subtitulo .fundo .imagem
+{
+}
+.titulo
+{
+color:#ffffff;
+text-align: center;
+font-size: 25pt;
+font-weight: bold;
+background: #8b8b8b
+}
+.subtitulo
+{
+color:#ffffff;
+font-size: 18pt;
+font-weight: bold;
+background: #8b8b8b
+}
+.fundo
+{
+background: #8b8b8b
+}
+.imagem
+{
+border-radius: 50%;
+
+}
